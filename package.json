@@ -1,0 +1,16 @@
+{
+  "name": "orangehrm",
+  "version": "1.0.0",
+  "description": "OrangeHRM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fakhryan",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "assert": "^2.0.0",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
